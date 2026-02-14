@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ #!/usr/bin/env bash
 # SessionStart hook for superpowers plugin
 
 set -euo pipefail
